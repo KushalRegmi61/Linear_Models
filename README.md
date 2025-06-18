@@ -1,13 +1,13 @@
-### 🔹 Week 5: Linear Models
+###  Week 5: Linear Models
 
-#### 📌 Overview  
+####  Overview  
 ‣ Focused on applying linear models for both regression and classification tasks using real-world data  
 
 ‣ Emphasized model interpretability, regularization techniques, and evaluation using standard performance metrics  
 
 ---
 
-#### 🗂️ Repository Structure
+####  Repository Structure
 
 ```
 
@@ -20,9 +20,9 @@
 
 ---
 
-#### 📝 Post-session Assignments  
+####  Post-session Assignments  
 
-📁 `post-session_assignments/`  
+ `post-session_assignments/`  
 
 - **`Linear Regression_Student.ipynb`**  
   ‣ Trained a linear regression model to predict student final grades (G3)  
@@ -38,6 +38,6 @@
 
 ---
 
-#### 💡 Key Insight  
+####  Key Insight  
 ‣ Linear models, when combined with effective preprocessing and regular evaluation, serve as reliable and interpretable tools for both prediction and classification tasks.
 
