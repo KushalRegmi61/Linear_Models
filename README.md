@@ -42,4 +42,4 @@
 ‣ Linear models, when combined with effective preprocessing and regular evaluation, serve as reliable and interpretable tools for both prediction and classification tasks.
 
 ### Full Fellowship Journey:
-[Repo Link](github.com/KushalRegmi61/Fusemachines-AI-Fellowship)
+[Repo Link](https://github.com/KushalRegmi61/AI_Fellowship_FuseMachines/tree/master)
